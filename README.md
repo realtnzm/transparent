@@ -1,4 +1,4 @@
-# Transparent-2.0
+# Transparent
 Transparent theme for Foobar2000 (v2.25.3) w/ Columns UI mod
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f365b001-4754-4412-bf1c-ff2fab93432b" />
@@ -19,8 +19,9 @@ Transparent theme for Foobar2000 (v2.25.3) w/ Columns UI mod
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f365b001-4754-4412-bf1c-ff2fab93432b" />
 
 # Installation
-Download Transparent2.0.fcl
+Download Transparent.fcl 
 Go to Preferences>Display>Coloumns UI>Import Configuration
-Import Transparent2.0.fcl
+Import Transparent.fcl
 
 You can adjust transparency in Prefrences>Display>Columns UI>Main Window
+
